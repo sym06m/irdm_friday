@@ -1,0 +1,6 @@
+agent:
+  name: observability_demo_agent
+  model: gemini-3
+  instruction: |
+    This agent demonstrates observability concepts such as logging,
+    metrics, and tracing within an agent-based system.
